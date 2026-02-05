@@ -31,7 +31,7 @@
   "antiInbox": false,
   "language": "en",
   "nickNameBot": "EX VUTU ➺🐱🥂🩷🪽",
-  "prefix": "!",
+  "prefix": "/",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
